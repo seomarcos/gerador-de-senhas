@@ -10,13 +10,13 @@ Este é um simples gerador de senhas aleatórias em Python. Ele permite que voc�
 
 Primeiro, você precisa clonar este repositório para sua máquina local:
 
-bashCopy code
+Copy code
 
-`git clone https://github.com/seu_usuario/seu_repositorio.git` 
+`git clone https://github.com/seomarcos/gerador-de-senhas.git` 
 
 Em seguida, navegue até a pasta do projeto e execute o script:
 
-bashCopy code
+Copy code
 
 `cd seu_repositorio
 python3 gerador_senha.py` 
